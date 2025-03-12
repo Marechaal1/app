@@ -20,9 +20,9 @@ const styles = StyleSheet.create({
   container: {
     justifyContent: 'center',
     alignItems: 'center',
-    marginBottom: 20, // Espaçamento opcional
+    marginBottom: 20, 
   },
   logo: {
-    resizeMode: 'contain', // Mantém a proporção da imagem
+    resizeMode: 'contain', 
   },
 });
