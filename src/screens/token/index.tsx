@@ -8,7 +8,7 @@ const background = require('../../../assets/imgs/image.png');
 export function TokenScreen() {
     const [counter, setCounter] = useState(0);
 
-    // Lógica do contador, movida para o arquivo separado
+    
     const handleStartCountdown = () => {
         startCountdown(setCounter);
     };
