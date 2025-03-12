@@ -1,8 +1,8 @@
 import React from 'react';
 import { TextInput, Button, Text } from 'react-native';
 import { Formik } from 'formik';
-import { validationSchema } from './validation';  // Importando o esquema de validação
-import styles from './styles'; // Importando os estilos
+import { validationSchema } from './validation';  /
+import styles from './styles';
 
 export function Formulario() {
     return (
